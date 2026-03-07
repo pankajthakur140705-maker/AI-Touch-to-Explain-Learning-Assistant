@@ -1,0 +1,21 @@
+# ─── Build & Runtime Ignore ───
+node_modules
+npm-debug.log*
+.env
+.env.local
+.git
+.gitignore
+*.md
+extension
+generate-icons.js
+Design.md
+requirement.md
+terraform
+docker-compose.yml
+Dockerfile
+.dockerignore
+.terraform
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
