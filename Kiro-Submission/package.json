@@ -1,0 +1,11 @@
+{
+  "name": "ai-touch-to-explain",
+  "version": "1.0.0",
+  "description": "AI Touch-to-Explain Learning Assistant - Demo",
+  "scripts": {
+    "install:backend": "cd backend && npm install",
+    "start:backend": "cd backend && node server.js",
+    "dev:backend": "cd backend && node --watch server.js",
+    "setup": "npm run install:backend"
+  }
+}
