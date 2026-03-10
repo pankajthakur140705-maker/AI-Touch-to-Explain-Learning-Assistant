@@ -2,6 +2,9 @@
 
 > A Chrome Extension + serverless backend that provides real-time, AI-powered explanations of highlighted text. Supports both mock services (for quick demo) and real AWS services (Bedrock, Polly, Textract, DynamoDB).
 
+Uploading WhatsApp Video 2026-03-08 at 9.38.47 PM.mp4…
+
+
 ## Features
 
 - **Highlight & Explain** — Select text on any webpage → get instant AI explanations at 3 depth levels (Quick / Normal / Detailed)
@@ -419,4 +422,5 @@ terraform destroy
 - **Hardcoded auth** — Use token `demo-user-token` (maps to user `demo-user`)
 - **Audio uses Web Speech API** — Browser's built-in text-to-speech for actual audio playback
 - **Designed for Chrome** — Manifest V3 extension, tested on Chrome 120+
+
 - **DynamoDB tables** — Created automatically by Terraform, or manually with CLI commands above
