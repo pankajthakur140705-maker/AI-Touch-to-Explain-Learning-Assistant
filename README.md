@@ -2,7 +2,8 @@
 
 > A Chrome Extension + serverless backend that provides real-time, AI-powered explanations of highlighted text. Supports both mock services (for quick demo) and real AWS services (Bedrock, Polly, Textract, DynamoDB).
 
-Uploading WhatsApp Video 2026-03-08 at 9.38.47 PM.mp4…
+
+https://youtu.be/f7r506SgcdM
 
 
 ## Features
@@ -424,3 +425,4 @@ terraform destroy
 - **Designed for Chrome** — Manifest V3 extension, tested on Chrome 120+
 
 - **DynamoDB tables** — Created automatically by Terraform, or manually with CLI commands above
+
