@@ -2,11 +2,9 @@
 
 > A Chrome Extension + serverless backend that provides real-time, AI-powered explanations of highlighted text. Supports both mock services (for quick demo) and real AWS services (Bedrock, Polly, Textract, DynamoDB).
 
-## 🎥 Project Demo (Loom)
+## 🎥 Project Demo (Youtube)
 
-[![Project Demo]<img width="1919" height="1069" alt="demo" src="https://github.com/user-attachments/assets/f0686f69-e78f-46c8-ab31-d53111e91c92" />](https://youtu.be/f7r506SgcdM)
-
-
+[![Project Demo]<img width="1919" height="1008" alt="Screenshot 2026-03-10 163215" src="https://github.com/user-attachments/assets/17343881-86e2-48e6-90d5-4d4ae7fe05ec" />](https://youtu.be/f7r506SgcdM)
 
 ## Features
 
@@ -427,5 +425,6 @@ terraform destroy
 - **Designed for Chrome** — Manifest V3 extension, tested on Chrome 120+
 
 - **DynamoDB tables** — Created automatically by Terraform, or manually with CLI commands above
+
 
 
